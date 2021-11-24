@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 -🔭 I’m currently working on ... something crazy!
 
 -🌱 I’m currently learning ...networking and databases.
-- 💬 Ask me about ...life, dreams and hard programming problems!
+
+-💬 Ask me about ...life, dreams and hard programming problems!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
